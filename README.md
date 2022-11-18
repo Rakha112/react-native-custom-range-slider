@@ -19,7 +19,7 @@ Demo on Android (Left) and Ios (Rigth)
 | `min`            | Minimum value of slider           | number                                                                     | **Required**  |
 | `max`            | Maximum value of slider           | number                                                                     | **Required**  |
 | `step`           | Step of slider                    | number                                                                     | **Required**  |
-| `onValueChanged` | Will be called when a slider stop | onValueChange={range => {setMinValue(range.min); setMaxValue(range.max);}} | **Required**  |
+| `onValueChange` | Will be called when a slider stop | onValueChange={range => {setMinValue(range.min); setMaxValue(range.max);}} | **Required**  |
 
 ## Run Locally
 
