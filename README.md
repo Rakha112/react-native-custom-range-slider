@@ -10,7 +10,7 @@ Custom Range Slider Demo
 
 Demo on Android (Left) and Ios (Rigth)
 
-![Demo2](https://github.com/Rakha112/react-native-custom-range-slider/blob/main/Demo3.gif)
+![Demo2](https://github.com/Rakha112/react-native-custom-range-slider/blob/main/Demo2.gif)
 
 ## Run Locally
 
